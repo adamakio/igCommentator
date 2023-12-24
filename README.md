@@ -10,8 +10,9 @@ This Python program connects to Instagram and automatically comments on a post e
 
 2. Create a `.env` file in the project root with your Instagram and OpenAI API keys:
 ```
-INSTAGRAM_API_KEY='your_instagram_api_key_here'
 OPENAI_API_KEY='your_openai_api_key_here'
+INSTAGRAM_USERNAME='your_ig_username'
+INSTAGRAM_PASSWORD='your_ig_password'
 ```
 ## Usage
 
